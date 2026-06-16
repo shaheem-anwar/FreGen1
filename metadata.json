@@ -1,0 +1,6 @@
+{
+  "name": "NVIDIA Synesthesia Studio",
+  "description": "Generate high-quality artwork from text prompts using NVIDIA stable diffusion and synthesize matching soundscapes powered by Gemini. Features a canvas designer, gallery vaults, and multiple theme palettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
